@@ -1,7 +1,11 @@
 ### Hi there 👋
 ![Metrics](https://metrics.lecoq.io/wangze0618?template=classic&config.timezone=Asia%2FShanghai)
-<!--
 ![wangze0618's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=wangze0618&show_icons=true&count_private=true&theme=gotham)
+![wangze0618's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wangze0618&layout=compact&hide_border=true&langs_count=10)
+
+
+<!--
+
 **wangze0618/wangze0618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
