@@ -9,7 +9,7 @@
 - ❓ Ask me about anything related to front-end   
   
 
-- 🤗 微信WeChat：w2867273828   |  邮箱Email：2867273828@qq.com  
+- 🤗 微信WeChat：w2867273828   |  邮箱Email：wangze0618@hotmail.com||2867273828@qq.com  
   
 
 <br/>  
